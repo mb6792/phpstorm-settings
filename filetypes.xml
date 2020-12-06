@@ -12,7 +12,6 @@
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="general-overview" type="PLAIN_TEXT" />
