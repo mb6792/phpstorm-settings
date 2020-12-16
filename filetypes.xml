@@ -37,6 +37,7 @@
       <mapping pattern="single-file-collections" type="PLAIN_TEXT" />
       <mapping pattern="working-with-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="log-dumper" type="PLAIN_TEXT" />
+      <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="view" type="PLAIN_TEXT" />
