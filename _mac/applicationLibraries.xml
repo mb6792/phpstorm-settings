@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="client.bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_client.bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_client.bundle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
