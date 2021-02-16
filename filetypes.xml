@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
       <mapping pattern="ManagedAccountModel" type="AUTO_DETECTED" />
+      <mapping pattern="minimum16YearsOfAge" type="AUTO_DETECTED" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
