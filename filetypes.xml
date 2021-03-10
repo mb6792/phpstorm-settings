@@ -13,8 +13,8 @@
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
-      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
+      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
