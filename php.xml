@@ -1,20 +1,20 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="04793de3-05bb-4d70-b753-46fbecf225e4" name="PHP 8" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="04793de3-05bb-4d70-b753-46fbecf225e4" name="PHP 8.1" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 8">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.11_1/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.11_1/bin/php" path_separator=":" version="8.0.11">
-          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
+      <interpreter name="PHP 8.1">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.1/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.1/bin/php" path_separator=":" version="8.1.1">
+          <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/error_log.ini, /opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.1/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.11_1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.1/share/php/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+            <debugger_info debugger="xdebug" debugger_version="3.1.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -61,7 +61,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
